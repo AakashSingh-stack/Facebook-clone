@@ -87,20 +87,6 @@ facebook-clone/
 │   └── index.html
 │
 └── README.md
-
-
----
-
-##Screenshots
-##Login
-##SignUp
-##Suggestions
-##Friends List
-> (Add screenshots of signup, dashboard, suggestions, and friends list)
-
-
-
-
 ---
 
 Author
