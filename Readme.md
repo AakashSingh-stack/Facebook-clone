@@ -91,8 +91,11 @@ facebook-clone/
 
 ---
 
-Screenshots
-
+##Screenshots
+##Login
+##SignUp
+##Suggestions
+##Friends List
 > (Add screenshots of signup, dashboard, suggestions, and friends list)
 
 
