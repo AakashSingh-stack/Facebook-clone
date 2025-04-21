@@ -88,7 +88,6 @@ facebook-clone/
 │
 └── README.md
 ---
-
 Author
 
 Aakash Singh
